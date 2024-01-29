@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126299173670",
+    "project_id": "taskcy",
+    "storage_bucket": "taskcy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126299173670:android:7acc001a87a0e56ce147e7",
+        "android_client_info": {
+          "package_name": "com.example.trackcy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfb3-2oOVHXnSJBs8TiqGUBaFZbq__LSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
